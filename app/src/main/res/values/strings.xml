@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Web Semantica</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="next">PROXIMO</string>
+    <string name="skip">VOLTAR</string>
+    <string name="start">COMEÇAR</string>
+
+    <string name="slide_1_title">Sana</string>
+    <string name="slide_1_desc">Comece agora a procurar pelo seu medico…</string>
+
+    <string name="slide_2_title">Especialidade do Médico</string>
+    <string name="slide_2_desc">Escolha o tipo de atuação do médico que deseja ser atendido</string>
+
+    <string name="slide_3_title">Localização</string>
+    <string name="slide_3_desc">Selecione qual area voçe tem disponibilidade de ser atendido.</string>
+
+    <string name="slide_4_title">Make India Cleaner</string>
+    <string name="slide_4_desc">Swachch Bharat! Kushal Bharat!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <string name="action_clear">Clear</string>
+    <string name="action_circle">Draw Circle</string>
+    <string name="action_overlay">Draw Overlay</string>
+    <string name="action_polygon">Draw Polygon</string>
+    <string name="action_traffic">Toggle Traffic</string>
+    <string name="action_cycle_map_type">Cycle Map Type</string>
+
+    <string name="dialog_play_services_unavailable">Google Play Services are unavailable.</string>
+    <string name="dialog_download_play_services">Download Play Services</string>
+    <string name="dialog_close_program">Close Program</string>
+
+
+    <string name="medic_prompt">Escolha seu medico</string>
+
+    <string-array name="medic_arrays">
+        <item>Tipo de Médico</item>
+        <item>Dermatologista</item>
+        <item>Neurologista</item>
+        <item>Pediatra</item>
+        <item>Ortopedista</item>
+    </string-array>
+
+    <string name="place_prompt">Escolha sua cidade</string>
+
+    <string-array name="place_arrays">
+        <item>Cidade</item>
+        <item>Brasília</item>
+        <item>Samambaia</item>
+        <item>Taguatinga</item>
+        <item>Gama</item>
+    </string-array>
+
+</resources>
